@@ -11,7 +11,7 @@ int main()
     int order;
     printf(" \n");
     printf("!! FARM CREAM CAFE WELCOME YOU !! \n");
-    printf("ENTER A VALUE WHICH IS GIVEN BELOW TO PLACE YOU ORDER\n");
+    printf("ENTER A VALUE WHICH IS GIVEN BELOW TO PLACE YOUR ORDER\n");
     printf("0 for water \n"
            "1  to order tea \n"
            "2  to order coffee \n"
